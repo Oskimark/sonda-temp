@@ -4,12 +4,12 @@
 #include <DallasTemperature.h>
 
 // Configuración WiFi
-const char* ssid = "anita";
-const char* password = "cinemanteca";
+const char* ssid = "missid";
+const char* password = "mipass";
 int i = 0;
 // Configuración ThingSpeak
 const char* server = "api.thingspeak.com";
-const char* apiKey = "QI610JADU9ROMZTT";
+const char* apiKey = "miapikey";
 
 // Pin del sensor DS18B20
 const int sensorPin = 4;
